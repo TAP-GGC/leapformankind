@@ -55,13 +55,20 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 
 * Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
-## Demonstration Video ##
-* **Located in GitHub repo:** /media/videos/
+## Demonstration / Workshop Videos ##
+* **Located in GitHub repo:** 
+/media/videos/
 ***
 
 ## Installation, User, and Development Documentation ##
 * **Navigate to ScratchX to create a blank project:**
 http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/leapmotion_extension.js#scratch
+* **Follow the project instructions in the GitHub repo:** 
+/workshop_code/Walkthrough-Steps.docx
+* **To play the finished game, use ScratchX to open \*.sbx file in the GitHub repo:** 
+/workshop_code/LeapForMankind_Racing_Game.sbx
+* **Important links are located in the repo:** 
+/links/
 ***
 
 ## Team ##
@@ -71,5 +78,7 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 - **Josiah Williams**
 ***
 ## Communication/Coordination ##
-**Message App:** Discord / Slack
+**Messaging App:** Discord / Slack
+**Video-Conferencing:** Zoom
+**Classroom Presentations / Workshops: Bb Collaborate**
 ***
