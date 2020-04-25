@@ -46,7 +46,7 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 * The Technology Ambassadors Program is an interactive class focused on service learning. TAP provides the opportunity to build a project using different technologies and collectively deliver it through conferences, student involvement, workshops, and outreach events.
 Click on this think for details about TAP: https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/
 
-* This study is inspired by the various simple racing games found on gaming websites. Keyboard inputs are traditionally used to interact with the games; however, we took it a step further by implementing the Leap Motion controller.
+* This study is inspired by the various simple racing games found on gaming websites. Keyboard inputs are traditionally used to interact with the games; however, we took it a step further by implementing the Leap Motion controller. We decided to remove the Leap Motion from our interactive activity in order to facilitate the workshop remotely during the COVID-19 pandemic.
 
 ***
 ## Methods ##
@@ -77,6 +77,8 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 - **Ryan Cunico**
 - **Valentina Mosquera Reina**
 - **Josiah Williams**
+* **Advicers:** 
+Dr. Cindy Robertson, Dr. Anca Doloc Mihu
 ***
 ## Communication/Coordination ##
 **Messaging App:** Discord / Slack
