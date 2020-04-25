@@ -1,4 +1,4 @@
-# A Leap for Mankind
+# Introducing Programming Concepts through an Interactive Scratch Workshop
 ***
 ## Development Information ##
 **GitHub Repository**
@@ -39,11 +39,12 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 ***
 
 ## Study Target / Focus / Purpose
-* This study aims to address the ongoing need for more STEM professionals in the current workforce by encouraging a focused interest in information technology at an earlier age.  This study targets students and others that do not necessarily have a formal programming background.  
+* This study addresses the ongoing need for more STEM professionals in the current workforce by encouraging a focused interest in information technology at an earlier age.  This study specifically targets students and others that do not necessarily have a formal programming background. 
 ***
 
 ## Description of TAP Program ## 
 * The Technology Ambassadors Program is an interactive class focused on service learning. TAP provides the opportunity to build a project using different technologies and collectively deliver it through conferences, student involvement, workshops, and outreach events.
+Click on this think for details about TAP: https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/
 
 * This study is inspired by the various simple racing games found on gaming websites. Keyboard inputs are traditionally used to interact with the games; however, we took it a step further by implementing the Leap Motion controller.
 
