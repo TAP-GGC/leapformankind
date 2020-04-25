@@ -62,10 +62,10 @@ Click on this think for details about TAP: https://www.ggc.edu/academics/schools
 ***
 
 ## Outreach Activities ##
-* **1. Tap Expo - April 28, 2020** Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
-* **2. Online Virtual Workshop - April 21, 2020**  Middle school students to promote IT and STEM careers. 
-* **3. Online Virtual Classroom Workshops - April 7 and April 14, 2020**  Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students. 
-* **4.Individual Workshops** To ignite curiosity and interest in the Technology field and introduce programming concepts to general audiences.
+**1. Tap Expo - April 28, 2020** Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
+**2. Online Virtual Workshop - April 21, 2020**  Middle school students to promote IT and STEM careers. 
+**3. Online Virtual Classroom Workshops - April 7 and April 14, 2020**  Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students. 
+**4.Individual Workshops** To ignite curiosity and interest in the Technology field by introducing programming concepts to general audiences interactively.
 
 ## Installation, User, and Development Documentation ##
 * **Navigate to ScratchX to create a blank project:**
