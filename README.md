@@ -77,7 +77,7 @@ http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/
 - **Ryan Cunico**
 - **Valentina Mosquera Reina**
 - **Josiah Williams**
-* **Advicers:** 
+* **Advisers:** 
 Dr. Cindy Robertson, Dr. Anca Doloc Mihu
 ***
 ## Communication/Coordination ##
