@@ -13,11 +13,16 @@ At the end of the activity, we hope to ignite a strong curiosity for the compute
 ***
 ## Technologies ##
 The two technologies used in this project are the Scratch programming language and Leap Motion. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
+
 ![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/Scratch_02.png "Scratch Logo")
+
 https://scratch.mit.edu/
 
+
 Leap Motion is a computer hardware sensor device that supports hand and finger motions as inputs. We use this technology to add functionality to the code and be able to move a car along a track by just moving your hand left and right without touching anything.  We decided to remove the Leap Motion from our interactive activity in order to facilitate the workshop remotely during the COVID-19 pandemic.
+
 ![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/LeapMotion_02.jpg "Leap Motion")
+
 https://www.ultraleap.com/product/leap-motion-controller/
 ***
 ## Demonstration / Workshop Videos ##
