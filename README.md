@@ -1,4 +1,3 @@
-# A Leap for Mankind:
 # Introducing Programming Concepts through an Interactive Scratch Workshop
 ***
 ## Overview / Description
