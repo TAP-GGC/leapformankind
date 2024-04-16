@@ -1,5 +1,4 @@
 # Introducing Programming Concepts through an Interactive Scratch Workshop
-***
 ## Overview / Description
 This study addresses the ongoing need for more STEM professionals in the current workforce by encouraging a focused interest in information technology at an earlier age.  This study specifically targets students and others that do not necessarily have a formal programming background. 
 
