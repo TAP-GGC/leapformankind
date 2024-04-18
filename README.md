@@ -45,16 +45,7 @@ https://www.youtube.com/watch?v=UmRPOZUmWrM&feature=youtu.be
 **Workshop Walkthrough Video**
 https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
 ***
-
-***
-***
-***
-
-***
-***
 ## Development Information and Installation Links ##
-**GitHub Repository**
-https://github.com/TechAmbassadors-GGC/leapformankind
 
 **Scratch: Open-Source Programming Language Created by MIT**
 https://scratch.mit.edu/
@@ -66,3 +57,12 @@ https://scratch.mit.edu/
 https://scratch.mit.edu/info/ext_download/
 
 ***
+## Demon video ##
+**Gameplay Using Leap Motion Device**
+https://www.youtube.com/watch?v=H6zxebktK8s
+
+**Racing Game Demo Video**
+https://www.youtube.com/watch?v=UmRPOZUmWrM&feature=youtu.be
+
+## Workshop Walkthrough Video ##
+https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
