@@ -19,9 +19,9 @@
 ### Team Photo
 ***
 ## Outreach Activities ##
-**1. Tap Expo - April 28, 2020** - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
-**2. Online Virtual Workshop - April 21, 2020** - Middle school students to promote IT and STEM careers. 
-**3. Online Virtual Classroom Workshops - April 7 and April 14, 2020** - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students.
+1. Tap Expo - April 28, 2020 - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
+2. Online Virtual Workshop - April 21, 2020 - Middle school students to promote IT and STEM careers. 
+3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students. 
 ## Technologies ##
 The two technologies used in this project are the Scratch programming language and Leap Motion. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
@@ -49,10 +49,6 @@ https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
 The Technology Ambassadors Program is an interactive class focused on service learning. TAP provides the opportunity to build a project using different technologies and collectively deliver it through conferences, student involvement, workshops, and outreach events.
 Click on this link for details about TAP: https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/
 ***
-## Outreach Activities ##
-1. Tap Expo - April 28, 2020 - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
-2. Online Virtual Workshop - April 21, 2020 - Middle school students to promote IT and STEM careers. 
-3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students. 
 ***
 ## User Access ##
 Users must use the ScratchX to access the application, because Leap Motion controller is considered an experimental extension as of Scratch 3.0:
