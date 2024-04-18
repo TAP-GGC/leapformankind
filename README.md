@@ -17,10 +17,8 @@ The two technologies used in this project are the Scratch programming language a
 https://scratch.mit.edu/
 
 
-Leap Motion is a computer hardware sensor device that supports hand and finger motions as inputs. We use this technology to add functionality to the code and be able to move a car along a track by just moving your hand left and right without touching anything.  We decided to remove the Leap Motion from our interactive activity in order to facilitate the workshop remotely during the COVID-19 pandemic.
 
 ![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/LeapMotion_02.jpg "Leap Motion")
-
 https://www.ultraleap.com/product/leap-motion-controller/
 ***
 ## Demonstration / Workshop Videos ##
