@@ -18,8 +18,7 @@ https://scratch.mit.edu/
 
 
 
-![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/LeapMotion_02.jpg "Leap Motion")
-https://www.ultraleap.com/product/leap-motion-controller/
+
 ***
 ## Demonstration / Workshop Videos ##
 **Gameplay Using Leap Motion Device**
