@@ -27,7 +27,7 @@
 ## Technology ##
 The technology used in this project is the Scratch programming language. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
-![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/Scratch_02.png "Scratch Logo")
+<img src="media/technology/Scratch_02.png" width="300"> 
 
 https://scratch.mit.edu/
 
