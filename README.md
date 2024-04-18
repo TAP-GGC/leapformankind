@@ -21,9 +21,11 @@
 ## Outreach Activities ##
 1. Tap Expo - April 28, 2020 - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
 2. Online Virtual Workshop - April 21, 2020 - Middle school students to promote IT and STEM careers. 
-3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students. 
-## Technologies ##
-The two technologies used in this project are the Scratch programming language and Leap Motion. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
+3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students.
+
+## Similar Projects ##
+## Technology ##
+The technology used in this project is the Scratch programming language. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
 ![alt text](https://github.com/TechAmbassadors-GGC/leapformankind/blob/master/media/technology/Scratch_02.png "Scratch Logo")
 
