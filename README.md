@@ -1,13 +1,14 @@
 # Introducing Programming Concepts through an Interactive Scratch Workshop
-## Overview / Description
-This study addresses the ongoing need for more STEM professionals in the current workforce by encouraging a focused interest in information technology at an earlier age.  This study specifically targets students and others that do not necessarily have a formal programming background. 
+## Description
+* Difficulty Level: Beginner 
+* Target Audience: Elementry - Middle school
+* Duration of workshop: 60 minutes
+* Needed Material: Scratch, A computer with internet access
+* The primary goal of this project is teacing participants the basic logical operators and statements, such as ‘if’ statements and ‘while’ loops through block-coding in scratch.
+* The audience is introduced to procedural programming through an interactive activity where participants develop their own simple racing game using the Scratch programming language. Participants learn basic logical operators and statements, such as ‘if’ statements and ‘while’ loops. <br> The use of block code helps simplify coding concepts and makes them more accessible, creating more interest in STEM fields for students.  Through the interactive drag-and-drop architecture of Scratch, students learn how certain algorithms are adopted to create the logic behind a game.
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
-This study is inspired by the various simple racing games found on gaming websites. The project originally utilized a hand-tracking motion controller to control the direction, however this was removed in order to facilitate the workshop remotely during the COVID-19 pandemic.
-The audience is introduced to procedural programming through an interactive activity where participants develop their own simple racing game using the Scratch programming language. Participants learn basic logical operators and statements, such as ‘if’ statements and ‘while’ loops. 
 
-The use of block code helps simplify coding concepts and makes them more accessible, creating more interest in STEM fields for students.  Through the interactive drag-and-drop architecture of Scratch, students learn how certain algorithms are adopted to create the logic behind a game. 
-
-At the end of the activity, we hope to ignite a strong curiosity for the computer sciences and demonstrate that everybody is capable of learning how to program. We are encouraging the students to become lifelong STEM learners and begin their STEM journey at an earlier age.
 ***
 ## Technologies ##
 The two technologies used in this project are the Scratch programming language and Leap Motion. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
