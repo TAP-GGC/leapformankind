@@ -47,27 +47,10 @@ https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
 ***
 
 ***
-## Description of TAP Program ## 
-The Technology Ambassadors Program is an interactive class focused on service learning. TAP provides the opportunity to build a project using different technologies and collectively deliver it through conferences, student involvement, workshops, and outreach events.
-Click on this link for details about TAP: https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/
 ***
 ***
-## User Access ##
-Users must use the ScratchX to access the application, because Leap Motion controller is considered an experimental extension as of Scratch 3.0:
-http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/leapmotion_extension.js#scratch
+
 ***
-## Installation (with LeapMotion Controller Functionality) ##
-1. Downlaod project from Github Repository
-     * Note: Workshop files are in the 'workshop_code' folder
-2. Install Leap Motion drivers on host PC
-3. Install Scratch Extension Browser Plugin
-4. Navigate to ScratchX website and load project
-5. Ensure Leap Motion extension is recognized in browser (small green circle in ScratchX interface)
-6. Load desired project file into ScratchX: 
-    * LeapForMankind_Racing_Game_with_LeapMotion.sbx - full game (with Leap Motion controller support)
-    * LeapForMankind_Racing_Game.sbx - full game (without Leap Motion controller support)
-    * starter_code.sb2 - Used for online workshop
-7. Click the green flag to start the game
 ***
 ## Development Information and Installation Links ##
 **GitHub Repository**
@@ -76,18 +59,10 @@ https://github.com/TechAmbassadors-GGC/leapformankind
 **Scratch: Open-Source Programming Language Created by MIT**
 https://scratch.mit.edu/
 
-**UltraLeap Leap Motion Controller**
-https://www.ultraleap.com/product/leap-motion-controller/
 
-**Leap Motion Drivers - v2 for Legacy Support**
-https://developer.leapmotion.com/setup/desktop
 
-**ScratchX with Experimental Leap Motion Extension**
-http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/leapmotion_extension.js#scratch
 
 **Scratch Extension Browser Plugin**
 https://scratch.mit.edu/info/ext_download/
 
-**Scratch Leap Motion Extension Guide**
-http://khanning.github.io/scratch-leapmotion-extension/
 ***
