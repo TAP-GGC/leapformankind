@@ -31,7 +31,7 @@ The technology used in this project is the Scratch programming language. Scratch
 
 https://scratch.mit.edu/
 
-
+## Project setup/Installation ##
 
 
 ***
