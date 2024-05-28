@@ -57,7 +57,7 @@ https://scratch.mit.edu/
 https://scratch.mit.edu/info/ext_download/
 
 ***
-## Demon video ##
+## Demo video ##
 **Gameplay Using Leap Motion Device**
 https://www.youtube.com/watch?v=H6zxebktK8s
 
