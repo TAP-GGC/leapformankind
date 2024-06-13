@@ -1,6 +1,6 @@
 # Introducing Programming Concepts through an Interactive Scratch Workshop
 ## About ##
-
+LeapforMankind is a racing game created using Scratch. The project aims to teach the concepts of "If statements" and "while loops" through block-coding in Scratch. This project was created through TAP (Technology Ambassador Program) at GGC (Georgia Gwinnett College) which aims to introduce the IT major to audiences that wouldn't have considered the IT field piror to their experience with a TAP workshop.  
 ## Description ##
 * Difficulty Level: Beginner 
 * Target Audience: Elementry - Middle school
