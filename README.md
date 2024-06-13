@@ -1,5 +1,7 @@
 # Introducing Programming Concepts through an Interactive Scratch Workshop
-## Description
+## About ##
+
+## Description ##
 * Difficulty Level: Beginner 
 * Target Audience: Elementry - Middle school
 * Duration of workshop: 60 minutes
