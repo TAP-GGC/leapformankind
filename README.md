@@ -19,6 +19,7 @@ LeapforMankind is a racing game created using Scratch. The project aims to teach
 * Dr. Cindy Robertson
 * Dr. Anca Doloc-Mihu
 ### Team Photo
+<img src= "media/LeapForMankindTeamphoto1.png" width="400" height="200">
 ***
 ## Outreach Activities ##
 1. Tap Expo - April 28, 2020 - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
