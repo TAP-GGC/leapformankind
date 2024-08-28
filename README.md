@@ -27,6 +27,13 @@ LeapforMankind is a racing game created using Scratch. The project aims to teach
 3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students.
 
 ## Similar Projects ##
+* [Scratchathon](https://github.com/TAP-GGC/scratchathon)
+* [Makeysrace](https://github.com/TAP-GGC/makeysrace)
+* [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
+* [Planimals](https://github.com/TAP-GGC/planimals)
+* [LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
+* [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
+
 ## Technology ##
 The technology used in this project is the Scratch programming language. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
