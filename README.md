@@ -42,7 +42,8 @@ The technology used in this project is the Scratch programming language. Scratch
 https://scratch.mit.edu/
 
 ## Project setup/Installation ##
-
+### Guide to Use Scratch
+[<img src= "media/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 ***
 ## Demonstration / Workshop Videos ##
