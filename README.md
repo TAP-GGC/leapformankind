@@ -10,6 +10,9 @@ LeapforMankind is a racing game created using Scratch. The project aims to teach
 * The audience is introduced to procedural programming through an interactive activity where participants develop their own simple racing game using the Scratch programming language. Participants learn basic logical operators and statements, such as ‘if’ statements and ‘while’ loops. <br> The use of block code helps simplify coding concepts and makes them more accessible, creating more interest in STEM fields for students.  Through the interactive drag-and-drop architecture of Scratch, students learn how certain algorithms are adopted to create the logic behind a game.
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
+   ### Commercial Video 
+Click the image below to watch a quick commercial for the project <br> <br>
+
 ## Team ##
 * **Matthew Bauer**
 * **Ryan Cunico**
@@ -46,34 +49,7 @@ https://scratch.mit.edu/
 [<img src= "media/technology/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 ***
-## Demonstration / Workshop Videos ##
-**Gameplay Using Leap Motion Device**
-https://www.youtube.com/watch?v=H6zxebktK8s
-
-**Racing Game Demo Video**
-https://www.youtube.com/watch?v=UmRPOZUmWrM&feature=youtu.be
-
-**Workshop Walkthrough Video**
-https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
-***
-## Development Information and Installation Links ##
-
-**Scratch: Open-Source Programming Language Created by MIT**
-https://scratch.mit.edu/
-
-
-
-
-**Scratch Extension Browser Plugin**
-https://scratch.mit.edu/info/ext_download/
-
-***
 ## Demo video ##
-**Gameplay Using Leap Motion Device**
-https://www.youtube.com/watch?v=H6zxebktK8s
-
-**Racing Game Demo Video**
-https://www.youtube.com/watch?v=UmRPOZUmWrM&feature=youtu.be
 
 ## Workshop Walkthrough Video ##
-https://www.youtube.com/watch?v=heR4M5Nq6_E&feature=youtu.be
+
