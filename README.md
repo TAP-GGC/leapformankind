@@ -14,10 +14,10 @@ LeapforMankind is a racing game created using Scratch. The project aims to teach
 Click the image below to watch a quick commercial for the project <br> <br>
 
 ## Team ##
-* **Matthew Bauer**
-* **Ryan Cunico**
-* **Valentina Mosquera Reina**
-* **Josiah Williams**
+* Matthew Bauer
+* Ryan Cunico
+* Valentina Mosquera Reina
+* Josiah Williams
 ### **Advisors** 
 * Dr. Cindy Robertson
 * Dr. Anca Doloc-Mihu
@@ -44,12 +44,12 @@ The technology used in this project is the Scratch programming language. Scratch
 
 https://scratch.mit.edu/
 
-## Project setup/Installation ##
+## Project Setup/Installation ##
 ### Guide to Use Scratch
 [<img src= "media/technology/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 ***
-## Demo video ##
+## Demo Video ##
 
 ## Workshop Walkthrough Video ##
 
