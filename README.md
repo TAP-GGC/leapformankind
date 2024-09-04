@@ -30,11 +30,11 @@ Click the image below to watch a quick commercial for the project <br> <br>
 3. Online Virtual Classroom Workshops - April 7 and April 14, 2020 - Intro to computing and Digital media students to promote IT and STEM careers to non-IT college students.
 
 ## Similar Projects ##
-* [Scratchathon](https://github.com/TAP-GGC/scratchathon)
-* [Makeysrace](https://github.com/TAP-GGC/makeysrace)
+* [Scratchathon (Scratch)](https://github.com/TAP-GGC/scratchathon)
+* [Makeysrace (Scratch)](https://github.com/TAP-GGC/makeysrace)
 * [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
-* [Planimals](https://github.com/TAP-GGC/planimals)
-* [LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
+* [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
+* [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
 * [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
 
 ## Technology ##
