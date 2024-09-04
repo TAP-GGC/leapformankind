@@ -35,7 +35,7 @@ Click the image below to watch a quick commercial for the project <br> <br>
 * [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
 * [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
 * [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
-* [MonsterMakey(Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
+* [MonsterMakey (Scratch with Makey-Makey - Audio Project)](https://github.com/TAP-GGC/MonsterMakey)
 
 ## Technology ##
 The technology used in this project is the Scratch programming language. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
