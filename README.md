@@ -40,9 +40,9 @@ Click the image below to watch a quick commercial for the project <br> <br>
 ## Technology ##
 The technology used in this project is the Scratch programming language. Scratch is a drag-and-drop programming language developed by MIT, which aims to introduce children to programming and logical problem-solving in an interactive, easily digestible manner. Scratch also provides an online community where users can share interactive media such as stories, games, and animation with people from all over the world.  Scratch is designed and maintained by the Lifelong Kindergarten group at the MIT Media Lab (Scratch, n.d.).
 
-| <img src="media/technology/Scratch_02.png" width="300"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> | <img src="Media/SpheroEdu.jpg" width="200" height="200"> <br>|
-| :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
-| [Scratch]([https://sphero.com/collections/all/products/sphero-bolt-power-pack](https://scratch.mit.edu/)) | [Sphero Robot](https://sphero.com/collections/all/products/sphero-bolt) | [Sphero EDU website](https://edu.sphero.com/sphero/home) |    
+| <img src="media/technology/Scratch_02.png" width="300"> | 
+| :-----------------------------------------------------------: | 
+| [Scratch](https://scratch.mit.edu/) |     
 <img src="media/technology/Scratch_02.png" width="300"> 
 
 https://scratch.mit.edu/
