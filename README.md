@@ -43,9 +43,7 @@ The technology used in this project is the Scratch programming language. Scratch
 | <img src="media/technology/Scratch_02.png" width="300"> | 
 | :-----------------------------------------------------------: | 
 | [Scratch](https://scratch.mit.edu/) |     
-<img src="media/technology/Scratch_02.png" width="300"> 
 
-https://scratch.mit.edu/
 
 ## Project Setup/Installation ##
 ### Guide to Use Scratch
