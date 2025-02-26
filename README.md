@@ -23,7 +23,7 @@ Click the image below to watch a quick commercial for the project <br> <br>
 * Dr. Anca Doloc-Mihu
 ### Team Photo
 <img src= "media/TeamPhoto/LeapForMankindTeamphoto1.png" width="300" height="200"><img src= "media/TeamPhoto/LeapForMankindTeamphoto2.png" width="200" height="200"><img src= "media/TeamPhoto/LeapForMankindTeamphoto3.png" width="250" height="200"><br>
-(Left to Right: Josiah Williams, Ryan Cunico Valentina Mosquera Reina, and Matthew Bauer)<br>
+(Left to Right: Josiah Williams, Ryan Cunico, Valentina Mosquera Reina, and Matthew Bauer)<br>
 ***
 ## Outreach Activities ##
 1. Tap Expo - April 28, 2020 - Demonstration the working game to Georgia Gwinnett students and faculty via Zoom. To promote IT field and the TAP program to college students.
