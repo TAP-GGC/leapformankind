@@ -50,6 +50,14 @@ The technology used in this project is the Scratch programming language. Scratch
 ### Guide to Use Scratch
 [<img src= "media/technology/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
+## Game
+[Easy:](resources/LeapForMankind.sb3) Take a cruise around a circular track. Vroom Vroom!
+
+
+
+[Hard:](resources/LeapForMankindHard.sb3) This is where the fun begins. Drive around a maze.
+
+
 ## Usage
 Use your arrow keys to drive around the track. 
 
