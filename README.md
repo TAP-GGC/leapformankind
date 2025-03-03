@@ -54,6 +54,7 @@ The technology used in this project is the Scratch programming language. Scratch
 ## Workshop Instructions
 
 Workshop Slides: [Click Here](documents/ppt/A_Leap_for_Mankind)
+
 Workshop Step by Step: [Click Here](documents/pdf/Workshop_Step_by_Step_Instructions)
 
 ***
