@@ -67,6 +67,8 @@ Workshop Slides: [Click Here](documents/ppt/A_Leap_for_Mankind.pptx)
 
 Workshop Step by Step: [Click Here](documents/pdf/Workshop_Step_by_Step_Instructions.pdf)
 
+Commented Code: [Click Here](documents/pdf/Leap%20For%20Mankind%20Commented%20Code.pdf)
+
 ***
 ## Demo Video ##
 
